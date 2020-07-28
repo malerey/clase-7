@@ -1,0 +1,17 @@
+.contenedor {
+  background-color: pink;
+  height: 900px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+}
+
+.tarjeta {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 2px solid black;
+  margin: 20px;
+}
